@@ -1,0 +1,13 @@
+=>  THE DIV TAG
+    The <div> tag is often used as a container for other elements.
+    It is a block-level element,meaning it always takes up the full width available.
+
+    <div>
+        <h1>This is a heading inside a div.</h1>
+            <p>This is a paragraph inside a div.</p>
+    </div>
+
+=>  THE SPAN TAG
+    The <span> tag is an inline container, meaning it only takes up as much width as
+    necessary.
+    <p>This is a <span>highlighted</span> word in a sentence.</p>

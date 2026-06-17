@@ -1,0 +1,25 @@
+MAIN
+├── SECTION
+│   └── ARTICLE
+│       └── Main Content
+│
+└── ASIDE
+    └── Sidebar / Ads / Related Links
+
+=>Explanation of Each Tag
+    Tag	        Purpose
+    <main>	    Contains the primary content of the webpage. There should
+                usually be only one <main> element per page.
+
+    <section>	Groups related content together, often with a heading.
+
+    <article>	Represents a self-contained piece of content
+                such as a blog post, news article, or forum post.
+
+    <aside>	    Contains content related to the main content but not essential to it,
+                such as sidebars, advertisements, or related links.
+
+
+
+
+

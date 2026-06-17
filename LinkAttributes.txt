@@ -1,0 +1,30 @@
+HTML Link Attributes (<a> Tag)
+
+The anchor tag (<a>) is used to create hyperlinks in HTML.
+
+    1. Open Link in the Same Tab
+    <a href="/contact">Contact</a>
+
+    href specifies the destination URL.
+    By default, links open in the same tab.
+
+    2. Open Link in a New Tab
+    <a href="/contact" target="_blank">Contact Us</a>
+
+    target="_blank" opens the linked page in a new browser tab.
+
+    3. Anchor Tag Can Contain Other Elements
+    An anchor tag can wrap
+    text, images, headings, and other HTML elements.
+
+    4. Linking to Pages in Directories
+
+
+    5. Making an Image Clickable
+
+    You can place an image inside an anchor tag:
+
+    <a href="/about">
+        <img src="a.jpg" width="120" alt="About Us">
+    </a>
+    When the user clicks the image, they are taken to the /about page.
